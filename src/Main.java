@@ -123,3 +123,4 @@ public static void main(String[] args) {
 
     System.out.println("Время зарядки составило " + minute + " минут");
 }
+}
