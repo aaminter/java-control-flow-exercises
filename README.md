@@ -1,6 +1,6 @@
 # Java Control Flow Exercises
 
-![Java CI](https://github.com/aaminter/DZ09/actions/workflows/ci.yml/badge.svg)
+![Java CI](https://github.com/aaminter/java-control-flow-exercises/actions/workflows/ci.yml/badge.svg)
 
 Консольные упражнения по циклам и управлению потоком выполнения.
 
